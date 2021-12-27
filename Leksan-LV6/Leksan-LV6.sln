@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leksan-LV6", "Leksan-LV6\Leksan-LV6.csproj", "{57016DB5-0944-4A67-AE01-AA07BF17BFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57016DB5-0944-4A67-AE01-AA07BF17BFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57016DB5-0944-4A67-AE01-AA07BF17BFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57016DB5-0944-4A67-AE01-AA07BF17BFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57016DB5-0944-4A67-AE01-AA07BF17BFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C5CE31-0169-44BC-9415-E679313B80FB}
+	EndGlobalSection
+EndGlobal
